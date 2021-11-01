@@ -1,19 +1,7 @@
 # Learning-Python
-//Being a self-taught data scientist
+//Being a self-taught python programmer
 
-//Commands that you must know:
-
-- git init: inicializa um repositório local git
-- git status: verifica o estado dos seus arquivos
-- git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
-- git add - -all: envia todos os arquivos para o Stage
-- git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
-- git remote add origin urlDoRepositorio: adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
-- git push origin master: envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
-- git checkout -b <nomeDaBranch>: cria uma nova branch
-- git checkout <nomeDaBranch>: alterna para a branch especificada
-
-I've watched and anoted all knowledge that this video provided [https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana]
+T've watched and anoted all knowledge that this video provided [https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana]
 
 1° Python can be used in web applications using frameworks like:
  - Django
