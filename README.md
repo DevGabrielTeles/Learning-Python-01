@@ -44,4 +44,5 @@ I've watched and anoted all knowledge that this video provided [https://www.yout
  
  - PyCharm is a IDE built for python language, lets I gonna try to use the community version besides the professional because you know...
 
+ sync pycharm with github [https://www.youtube.com/watch?v=hwqInUI9rc8&ab_channel=JogosDigitaisFatec20201]
  
