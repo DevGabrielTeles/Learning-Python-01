@@ -11,15 +11,15 @@ I've watched and anoted all knowledge that this video provided [https://www.yout
  - Artificional Intelligence
 
  Exists lots of libraries, the plan is to see one by one in this sequence:
- 1° NumPy
- 2° Pandas
- 3° matplotlib
- 4° SciPy
- 5° Scikit-Learn
- 6° TensorFlow
- 7° Keras
- 8° Seaborn
- 9° PyTorch
+ - 1° NumPy
+ - 2° Pandas
+ - 3° matplotlib
+ - 4° SciPy
+ - 5° Scikit-Learn
+ - 6° TensorFlow
+ - 7° Keras
+ - 8° Seaborn
+ - 9° PyTorch
 
  Python is good for:
  - Automate general tasks
@@ -27,6 +27,6 @@ I've watched and anoted all knowledge that this video provided [https://www.yout
  - Cloud platforms
  - Automating excel tasks
  
- - PyCharm is a IDE built for python language, lets I'll try to use thee community version besides the professional because you know...
+ - PyCharm is a IDE built for python language, lets I gonna try to use the community version besides the professional because you know...
 
  
