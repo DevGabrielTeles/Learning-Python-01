@@ -110,20 +110,5 @@ user_input2 = input("Second Question: Enter a value for a number of days and I w
 days_to_hours3(user_input2, "DEU CERTO! UHUL")
 
 # We as programmers when we allow user input a value, we must restrict them and validate what they provided as input.
+# Next Step is If Statements
 
-
-# Learning If/else statements
-
-# Creating a function with two local variables
-def days_to_hours4(number_of_days):
-    #If operators: == equal / =! not igual / > grater / < less than / >= greater than of equal to / <= less than or equal to
-    if number_of_days > 0:
-        return f"{number_of_days} days are {number_of_days * 24 * 60} seconds"
-    elif number_of_days == 0:
-        return "Zero days ins't a proper answer!"
-    else:
-        return "A negative number isn't a proper answer!"
-
-user_input3 = input("Third Question: Enter a value for a number of days and I will convert it to seconds!\n")
-# Calling the Function created with a number of days and the message
-days_to_hours3(user_input3, "DEU CERTO! UHUL")
