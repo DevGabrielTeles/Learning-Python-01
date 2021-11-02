@@ -6,12 +6,12 @@ I've watched and anoted all knowledge that this video provided [https://www.yout
 1° Python can be used in web applications using frameworks like:
  - Django
  - Flask
- and other.. This is the most used frameworks to programming in python for web.
+ and others.. These two are the most used frameworks to programming in python for web.
 
- The main focus of python programming is:
+ My main focus programming python are:
  - Data science
  - Machine Leaning
- - Artificional Intelligence
+ - Artificial Intelligence
 
  Exists lots of libraries, the plan is to see one by one in this sequence:
  - 1° NumPy
@@ -25,6 +25,7 @@ I've watched and anoted all knowledge that this video provided [https://www.yout
  - 9° PyTorch
 
  Python is good for:
+ - Data Analysis
  - Automate general tasks
  - CI/CD Pipelines
  - Cloud platforms
