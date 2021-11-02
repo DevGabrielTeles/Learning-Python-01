@@ -1,7 +1,7 @@
 # Learning-Python
 //Being a self-taught python programmer
 
-T've watched and anoted all knowledge that this video provided [https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana]
+I've watched and anoted all knowledge that this video provided [https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana]
 
 1° Python can be used in web applications using frameworks like:
  - Django
